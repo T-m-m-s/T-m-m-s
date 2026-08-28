@@ -29,7 +29,7 @@
 
 ---
 
-### 🛠️ Languages & Tools I Play With
+### 🛠️ Languages & Tools I Work / Play With
 
 <div align="center">
 
