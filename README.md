@@ -2,7 +2,7 @@
 
   <!-- Dynamic Typing Header -->
   <a href="https://github.com/T-m-m-s">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&width=550&lines=Hey+there!+I'm+Tms.exe+%F0%9F%91%8B;CS+Student+%40+Uniud;Tinkering+with+mobile%2C+games+%26+Linux;Building+Crucible+%E2%80%A2+Tweaking+shells" alt="Typing Banner" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&width=550&lines=Hey+there!+I'm+Tommaso+%F0%9F%91%8B;CS+Student+%40+Uniud;Tinkering+with+mobile%2C+games+%26+Linux;Building+Crucible+%E2%80%A2+Tweaking+shells" alt="Typing Banner" />
   </a>
 
   <p align="center">
