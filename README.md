@@ -60,6 +60,6 @@
 ### 📊 Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=T-m-m-s&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=T-m-m-s&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats-mu-fawn-98.vercel.app/api?username=T-m-m-s&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-mu-fawn-98.vercel.app/api/top-langs/?username=T-m-m-s&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" width="48%" alt="Top Languages" />
 </div>
