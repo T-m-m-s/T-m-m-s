@@ -58,5 +58,12 @@
 ---
 
 ### 📊 Stats
-![Stats](https://github-stats-extended-black.vercel.app/api?username=T-m-m-s&include_all_commits=true&theme=github_dark)
-![Top Langs](https://github-stats-extended-black.vercel.app/api/top-langs?username=T-m-m-s&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&hide=html,jupyter%20notebook,tex&langs_count=8&theme=github_dark)
+<div align="center">
+<a href="https://github.com/T-m-m-s"><picture>
+<source srcset="https://github-stats-extended-black.vercel.app/api?username=T-m-m-s&include_all_commits=true&show_icons=true&rank_icon=github&hide_border=true&border_radius=10&theme=dark_github" media="(prefers-color-scheme: dark)" />
+<img height="195" alt="GitHub stats" src="https://github-stats-extended-black.vercel.app/api?username=T-m-m-s&include_all_commits=true&show_icons=true&rank_icon=github&hide_border=true&border_radius=10&theme=light_github" />
+</picture></a><a href="https://github.com/T-m-m-s?tab=repositories"><picture>
+<source srcset="https://github-stats-extended-black.vercel.app/api/top-langs?username=T-m-m-s&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&hide=html,jupyter%20notebook,tex&layout=compact&langs_count=8&card_width=320&size_weight=0.5&count_weight=0.5&hide_border=true&border_radius=10&theme=dark_github" media="(prefers-color-scheme: dark)" />
+<img height="195" alt="Top languages" src="https://github-stats-extended-black.vercel.app/api/top-langs?username=T-m-m-s&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&hide=html,jupyter%20notebook,tex&layout=compact&langs_count=8&card_width=320&size_weight=0.5&count_weight=0.5&hide_border=true&border_radius=10&theme=light_github" />
+</picture></a>
+</div>
