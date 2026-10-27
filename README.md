@@ -58,5 +58,5 @@
 ---
 
 ### 📊 Stats
-![Stats](https://github-stats-extended-black.vercel.app/api?username=T-m-m-s&include_all_commits=true)
-![Top Langs](https://github-stats-extended-black.vercel.app/api/top-langs?username=T-m-m-s&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
+![Stats](https://github-stats-extended-black.vercel.app/api?username=T-m-m-s&include_all_commits=true&theme=github_dark)
+![Top Langs](https://github-stats-extended-black.vercel.app/api/top-langs?username=T-m-m-s&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&hide=html,jupyter%20notebook,tex&langs_count=8&theme=github_dark)
